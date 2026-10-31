@@ -1,0 +1,26 @@
+text,label
+"I really enjoyed this item and would happily recommend it",positive
+"Delivery was fast and the build quality felt impressive",positive
+"The service team answered quickly and fixed the problem",positive
+"The application feels simple, responsive, and easy to use",positive
+"The film offered a moving plot and strong acting",positive
+"These headphones produce crisp sound and remain comfortable",positive
+"Battery performance is excellent and the design feels dependable",positive
+"The lesson made hard ideas clear with useful examples",positive
+"The meal tasted fresh and the staff were warm and attentive",positive
+"The latest version improved speed and made tasks easier",positive
+"I would purchase it again because it worked better than expected",positive
+"The layout is polished and the tools are practical",positive
+"The item was awful and stopped working almost immediately",negative
+"The shipment came late and the packaging was damaged",negative
+"Support never responded properly to my complaint",negative
+"The application freezes frequently and deletes my work",negative
+"The film felt dull, obvious, and unnecessarily long",negative
+"The headset is uncomfortable and the sound quality is poor",negative
+"The battery runs out too fast and charging is unreliable",negative
+"The lesson was unclear and did not include enough examples",negative
+"The food arrived cold and the price was not worth it",negative
+"The new version slowed everything down and removed helpful tools",negative
+"I regret the purchase because it stopped functioning",negative
+"The screen is messy and hard to understand",negative
+
